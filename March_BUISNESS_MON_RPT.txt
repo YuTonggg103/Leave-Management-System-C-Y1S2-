@@ -1,0 +1,7 @@
+10002,1234,desmond,m,School of Business,Accounting Department,Medical Leave,10,3,2023,0,0,0,1,sick,APPROVED
+10005,1234,Dora,f,School of Business,Marketing Department,Compassionate Leave,13,3,2023,0,0,0,1,Grandpa died,REJECT
+10006,1234,Elsa,f,School of Business,International Business Department,Medical Leave,10,3,2023,0,0,0,1,fever,REJECT
+10015,1234,yheng,f,School of Business,Marketing Department,Annual Leave,10,3,2023,30,3,2023,21,travel,APPROVED
+10015,1234,yheng,f,School of Business,Marketing Department,Annual Leave,10,3,2023,15,3,2023,6,travel to malaysia,REJECT
+10015,1234,yheng,f,School of Business,Marketing Department,Medical Leave,10,3,2023,0,0,0,1,sick,APPROVED
+10015,1234,yheng,f,School of Business,Marketing Department,Annual Leave,12,3,2023,15,3,2023,4,travel to perak,APPROVED
